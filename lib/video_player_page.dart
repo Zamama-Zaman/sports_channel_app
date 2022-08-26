@@ -9,7 +9,7 @@ class VideoPlayerPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text("Video Player Page"),
+        child: Text("New Video Player Page"),
       ),
     );
   }
