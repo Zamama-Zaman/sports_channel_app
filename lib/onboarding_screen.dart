@@ -3,8 +3,8 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:neon_ui_design/components/custom_outline_button.dart';
-import 'package:neon_ui_design/constant.dart';
+import 'package:sports_channel_app/constant.dart';
+import 'package:sports_channel_app/custom_outline_button.dart';
 
 class OnboardingScreen extends StatelessWidget {
   const OnboardingScreen({Key? key}) : super(key: key);
